@@ -16,7 +16,9 @@ This is a solution to the [Workit landing page challenge on Frontend Mentor](htt
 ### Screenshot
 
 ![Mobile](./screenshot-mobile.jpg)
+
 ![Tablet](./screenshot-tablet.jpg)
+
 ![Desktop](./screenshot-desktop.jpg)
 
 ### Links
